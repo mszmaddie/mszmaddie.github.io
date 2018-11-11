@@ -13,7 +13,7 @@ a { color:#999999; text-decoration:underline; }
 
 #colorcage { display:block; float:left; margin-left:1px; }
 
-#autoplaycage { display:block; float:right; margin-right:150px; }
+#autoplaycage { display:block; float:right; margin-right:200px; }
 
 #colorcage input, #autoplaycage input { border:0px; outline:none; cursor:pointer; font-family:arial, sans-serif; font-size:12px; line-height:12px; -webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px; }
 #colorcage input { width:60px; text-align:center; padding:4px 0px 4px 0px; letter-spacing:1px; }
