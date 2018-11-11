@@ -1,6 +1,6 @@
     // code forked at https://cinness.github.io/index.html
 
-window.onload = function littleplayer() {
+window.onload = function mtplayer() {
 
     // get user input info
 
