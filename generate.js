@@ -36,8 +36,8 @@ function generate() {
 
     document.getElementById("index-color-select").style.display = "none";
     document.getElementById("codebox").style.display = "block";
-    document.getElementById("infobox").style.textAlign = "center";
-    document.getElementById("infobox").innerHTML = "Copy and paste the code below into your blog or website's HTML!"
+    document.getElementById("desc").style.textAlign = "center";
+    document.getElementById("desc").innerHTML = "Copy and paste the code below into your blog or website's HTML!"
 
     // declare variables for xlittleplayerinfo and xlittleplayernames spans
 
