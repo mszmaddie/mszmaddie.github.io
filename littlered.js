@@ -37,7 +37,7 @@ function generate() {
     document.getElementById("cinterface").style.display = "none";
     document.getElementById("codebox").style.display = "block";
     document.getElementById("infobox").style.textAlign = "center";
-    document.getElementById("infobox").innerHTML = "Copy and paste the code below into your blog or website html!"
+    document.getElementById("infobox").innerHTML = "Copy and paste the code below into your blog or website's HTML!"
 
     // declare variables for xlittleplayerinfo and xlittleplayernames spans
 
