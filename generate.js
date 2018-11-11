@@ -39,7 +39,7 @@ function generate() {
     document.getElementById("desc").style.textAlign = "center";
     document.getElementById("desc").innerHTML = "Copy & paste the code below into your blog or website's HTML:"
 
-    // declare variables for multi-info and xlittleplayernames spans
+    // declare variables for multi-info and multi-names spans
 
     var oneinfo = "#" + color + " " + autos + " ";
     var twoinfo = "0,0,";
