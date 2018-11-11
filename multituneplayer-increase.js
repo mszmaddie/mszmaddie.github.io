@@ -32,7 +32,7 @@ function littleplayer() {
 
     document.getElementById("xlittleplayer").style.display = "block";
     document.getElementById("xlittleplayer").style.width = "25px";
-    document.getElementById("xlittleplayer").style.padding = "3px 15px";
+    document.getElementById("xlittleplayer").style.padding = "0px 15px";
 
     var xaudio = document.getElementById("xaudio");
     xaudio.style.display = "none";
