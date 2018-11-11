@@ -29,8 +29,8 @@ window.onload = function littleplayer() {
     // style player elements
 
     document.getElementById("xlittleplayer").style.display = "block";
-    document.getElementById("xlittleplayer").style.width = "20px";
-    document.getElementById("xlittleplayer").style.padding = "3px 5px";
+    document.getElementById("xlittleplayer").style.width = "25px";
+    document.getElementById("xlittleplayer").style.padding = "3px 15px";
 
     var xaudio = document.getElementById("xaudio");
     xaudio.style.display = "none";
