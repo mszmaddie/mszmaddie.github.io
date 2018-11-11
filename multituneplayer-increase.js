@@ -1,4 +1,4 @@
-// code forked @ https://cinness.github.io/index.html
+// code forked at https://cinness.github.io/index.html
 
 littleplayer();
 
