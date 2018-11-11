@@ -6,7 +6,7 @@ function littleplayer() {
         
     // get user input info
 
-    var initinfo = document.getElementById("xlittleplayerinfo").innerHTML;
+    var initinfo = document.getElementById("multi-info").innerHTML;
     var songs = initinfo.split(" ");
     var sq = songs.length - 1;
 
