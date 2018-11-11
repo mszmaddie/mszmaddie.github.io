@@ -37,7 +37,7 @@ function generate() {
     document.getElementById("index-color-select").style.display = "none";
     document.getElementById("codebox").style.display = "block";
     document.getElementById("desc").style.textAlign = "center";
-    document.getElementById("desc").innerHTML = "Copy and paste the code below into your blog or website's HTML!"
+    document.getElementById("desc").innerHTML = "Copy and paste the code below into your blog or website's HTML"
 
     // declare variables for xlittleplayerinfo and xlittleplayernames spans
 
@@ -73,7 +73,7 @@ function generate() {
         var twoinfonew = twoinfo.slice(0,twoinfolength);
 
         // generate user code in textarea
-        <!-- project forked @ https://cinness.github.io/index.html -->
+
         document.getElementById("codebox").innerHTML = "<!-- code forked at https://cinness.github.io/index.html --> &lt;script src&equals;&quot;https://cinness.github.io/multituneplayer.js&quot;&gt;&lt;&sol;script&gt;&lt;div id&equals;&quot;xlittleplayer&quot;&gt;&lt;span id&equals;&quot;xlittleplayerinfo&quot; style&equals;&quot;display:none;&quot;&gt;" + oneinfonew + "&lt;&sol;span&gt;&lt;span id&equals;&quot;xlittleplayernames&quot; style&equals;&quot;display:none;&quot;&gt;" + twoinfonew + "&lt;&sol;span&gt;&lt;&sol;div&gt;";
 
     })();
