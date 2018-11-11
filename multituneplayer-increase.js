@@ -1,5 +1,5 @@
-$( document ).ready(function() {
-
+$( document ).ready(function littleplayer() {
+        
     // get user input info
 
     var initinfo = document.getElementById("xlittleplayerinfo").innerHTML;
