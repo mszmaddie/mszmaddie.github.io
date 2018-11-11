@@ -84,15 +84,15 @@
     pbar1.style.float = "left";
     pbar1.style.marginRight = "2px";
     pbar1.style.width = "3px";
-    pbar1.style.height = "10px";
-    pbar1.style.marginTop = "0px";
+    pbar1.style.height = "9px";
+    pbar1.style.marginTop = "1px";
     pbar1.style.background = songs[0];
 
     pbar2.style.display = "block";
     pbar2.style.float = "left";
     pbar2.style.width = "3px";
-    pbar2.style.height = "10px";
-    pbar2.style.marginTop = "0px";
+    pbar2.style.height = "9px";
+    pbar2.style.marginTop = "1px";
     pbar2.style.background = songs[0];
 
     var xskip = document.getElementById("xskip");
