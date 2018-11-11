@@ -13,7 +13,7 @@ a {
   text-decoration: underline; 
 }
 
-#main { 
+#cell { 
   position: absolute; 
   width: 400px; 
   left: calc(50% - 200px); 
@@ -21,19 +21,19 @@ a {
   padding-bottom: 40px; 
 }
 
-#main input::selection { 
+#cell input::selection { 
   background: #FFE8EC; 
 }
 
-#main input::-moz-selection { 
+#cell input::-moz-selection { 
   background: #FFE8EC; 
 }
 
-#main input { 
+#cell input { 
   -webkit-appearance: none; 
 }
 
-#playercage { 
+#playerbox { 
   position: absolute; 
   width: 130px; 
   margin: 0 0 0 calc(50% - 60px); 
