@@ -30,7 +30,7 @@ window.onload = function littleplayer() {
 
     document.getElementById("xlittleplayer").style.display = "block";
     document.getElementById("xlittleplayer").style.width = "20px";
-    document.getElementById("xlittleplayer").style.padding = "0px 0px";
+    document.getElementById("xlittleplayer").style.padding = "3px 5px";
 
     var xaudio = document.getElementById("xaudio");
     xaudio.style.display = "none";
