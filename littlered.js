@@ -22,7 +22,7 @@ function auto() {
     }
     else if ( autos == "on" ) {
         autos = "off";
-        document.getElementById("abutton").style.background = "#49E971";
+        document.getElementById("abutton").style.background = "#0FFFCD";
         document.getElementById("abutton").value = "autoplay is off";
     }
     else {}
