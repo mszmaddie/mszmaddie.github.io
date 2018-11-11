@@ -10,7 +10,7 @@ function littleplayer() {
     var songs = initinfo.split(" ");
     var sq = songs.length - 1;
 
-    var initnames = document.getElementById("xlittleplayernames").innerHTML;
+    var initnames = document.getElementById("multi-names").innerHTML;
     var tracks = initnames.split(",");
 
    // fill holes left by possible blank track titles
