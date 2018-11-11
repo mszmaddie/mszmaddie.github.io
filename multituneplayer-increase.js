@@ -1,8 +1,8 @@
 // code forked at https://cinness.github.io/index.html
 
-littleplayer();
+mtplayer();
 
-function littleplayer() {
+function mtplayer() {
         
     // get user input info
 
