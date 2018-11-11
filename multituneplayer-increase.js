@@ -1,8 +1,8 @@
 // code forked at https://cinness.github.io/index.html
 
-mtplayer();
+mtp();
 
-function mtplayer() {
+function mtp() {
         
     // get user input info
 
