@@ -1,3 +1,5 @@
+// project forked @ https://cinness.github.io/index.html
+
 littleplayer();
 
 function littleplayer() {
