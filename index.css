@@ -48,13 +48,13 @@ a {
 #colorcage { 
   display: block; 
   float: left; 
-  margin-left: 1px; 
+  margin: 0 0 0 1px; 
 }
 
 #autoplaycage { 
   display: block; 
   float: right; 
-  margin-right: 230px; 
+  margin: 0 230px 0 0; 
 }
 
 #colorcage input, #autoplaycage input { 
@@ -85,12 +85,12 @@ a {
 }
 
 #trackcage { 
-  margin-top: 16px; 
+  margin: 16px 0 0 0; 
   width: 400px; 
 }
 
 #trackguide { 
-  margin-bottom: 7px; 
+  margin: 0 0 7px 0; 
 }
 
 #trackurl1, #trackurl2, #trackurl3, #trackurl4, #trackurl5, #trackurl6, #trackurl7, #trackurl8, #trackurl9 { 
@@ -104,8 +104,8 @@ a {
   font-size: 12px; 
   line-height: 12px; 
   letter-spacing: 1px; 
-  margin-top: 7px; c
-  olor: #999; 
+  margin: 7px 0 0 0; 
+  color: #999; 
   padding: 4px 6px; 
   -webkit-border-radius: 3px; 
   -moz-border-radius: 3px; 
@@ -123,7 +123,7 @@ a {
   font-size: 12px; 
   line-height: 12px; 
   letter-spacing: 1px; 
-  margin-top: 7px; 
+  margin: 7px 0 0 0; 
   color: #999; 
   padding: 4px 6px; 
   -webkit-border-radius: 3px; 
@@ -133,7 +133,7 @@ a {
 
 #generate { 
   width: 400px; 
-  margin-top: 15px; 
+  margin: 15px 0 0 0; 
   border: 1px solid #E0E0E0; 
   outline: none; 
   cursor: pointer; 
@@ -161,7 +161,7 @@ a {
   font-size: 12px; 
   line-height: 12px; 
   letter-spacing: 1px; 
-  margin-top: 7px; 
+  margin: 7px 0 0 0; 
   color: #999; 
   padding: 10px; 
   -webkit-border-radius: 3px; 
