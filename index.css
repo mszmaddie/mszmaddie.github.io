@@ -21,14 +21,6 @@ a {
   padding-bottom: 40px; 
 }
 
-#cell input::selection { 
-  background: #FFE8EC; 
-}
-
-#cell input::-moz-selection { 
-  background: #FFE8EC; 
-}
-
 #cell input { 
   -webkit-appearance: none; 
 }
@@ -91,14 +83,6 @@ a {
 
 #trackguide { 
   margin: 0 0 7px 0; 
-}
-
-#trackguide input::selection { 
-  background: #FFE8EC; 
-}
-
-#trackguide input::-moz-selection { 
-  background: #FFE8EC; 
 }
 
 #trackurl1, #trackurl2, #trackurl3, #trackurl4, #trackurl5, #trackurl6, #trackurl7, #trackurl8, #trackurl9 { 
