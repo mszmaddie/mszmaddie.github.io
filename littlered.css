@@ -9,7 +9,7 @@ a { color:#999999; text-decoration:underline; }
 
 #playercage { position:absolute; width:130px; margin-left:calc(50% - 60px); letter-spacing:0px; }
 
-#infobox { margin:40px 0px 20px 0px; text-align:justify; }
+#infobox { margin:40px 0px 18px 0px; text-align:justify; }
 
 #colorcage { display:block; float:left; margin-left:1px; }
 
