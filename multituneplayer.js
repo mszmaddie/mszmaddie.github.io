@@ -67,9 +67,9 @@ window.onload = function littleplayer() {
     xplay.style.display = "block";
     xplay.style.width = "0px";
     xplay.style.height = "0px";
-    xplay.style.borderTop = "4px solid transparent";
-    xplay.style.borderLeft = "6px solid " + songs[0];
-    xplay.style.borderBottom = "4px solid transparent";
+    xplay.style.borderTop = "6px solid transparent";
+    xplay.style.borderLeft = "8px solid " + songs[0];
+    xplay.style.borderBottom = "6px solid transparent";
     xplay.style.cursor = "pointer";
 
     var xpause = document.getElementById("xpause");
