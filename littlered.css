@@ -19,7 +19,7 @@ a { color:#999999; text-decoration:underline; }
 #colorcage input { width:60px; text-align:center; padding:4px 0px 4px 0px; letter-spacing:1px; }
 #autoplaycage input { color:#000; padding:5px 6px; background:#FF0054; color:#fff; letter-spacing:1px; }
 
-#trackcage { margin-top:15px; width:400px; }
+#trackcage { margin-top:16px; width:400px; }
 #trackguide { margin-bottom:7px; }
 
 #trackurl1, #trackurl2, #trackurl3, #trackurl4, #trackurl5, #trackurl6, #trackurl7, #trackurl8, #trackurl9 { display:block; width:270px; float:left; border:1px solid #E0E0E0; background:#ffffff; outline:none; font-family:arial, sans-serif; font-size:12px; line-height:12px; letter-spacing:1px; margin-top:7px; color:#999; padding:4px 6px; -webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px; }
