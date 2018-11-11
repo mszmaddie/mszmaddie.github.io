@@ -1,4 +1,4 @@
-$(function() {
+window.onload = function littleplayer() {
         
     // get user input info
 
