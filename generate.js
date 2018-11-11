@@ -34,7 +34,7 @@ function generate() {
 
     // hide customisation interface and show codebox
 
-    document.getElementById("cinterface").style.display = "none";
+    document.getElementById("index-color-select").style.display = "none";
     document.getElementById("codebox").style.display = "block";
     document.getElementById("infobox").style.textAlign = "center";
     document.getElementById("infobox").innerHTML = "Copy and paste the code below into your blog or website's HTML!"
