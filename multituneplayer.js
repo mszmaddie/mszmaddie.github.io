@@ -30,7 +30,7 @@ window.onload = function littleplayer() {
 
     document.getElementById("xlittleplayer").style.display = "block";
     document.getElementById("xlittleplayer").style.width = "20px";
-    document.getElementById("xlittleplayer").style.padding = "3px 5px";
+    document.getElementById("xlittleplayer").style.padding = "3px 0px";
 
     var xaudio = document.getElementById("xaudio");
     xaudio.style.display = "none";
@@ -111,7 +111,7 @@ window.onload = function littleplayer() {
 
     sk2.style.display = "block";
     sk2.style.float = "left";
-    sk2.style.width = "6px";
+    sk2.style.width = "0px";
     sk2.style.height = "0px";
     sk2.style.borderTop = "4px solid transparent";
     sk2.style.borderLeft = "4px solid " + songs[0];
