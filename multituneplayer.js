@@ -105,17 +105,17 @@ window.onload = function littleplayer() {
     sk1.style.float = "left";
     sk1.style.width = "0px";
     sk1.style.height = "0px";
-    sk1.style.borderTop = "0px solid transparent";
-    sk1.style.borderLeft = "0px solid " + songs[0];
-    sk1.style.borderBottom = "0px solid transparent";
+    sk1.style.borderTop = "6px solid transparent";
+    sk1.style.borderLeft = "6px solid " + songs[0];
+    sk1.style.borderBottom = "6px solid transparent";
 
     sk2.style.display = "block";
     sk2.style.float = "left";
-    sk2.style.width = "0px";
+    sk2.style.width = "6px";
     sk2.style.height = "0px";
-    sk2.style.borderTop = "0px solid transparent";
-    sk2.style.borderLeft = "0px solid " + songs[0];
-    sk2.style.borderBottom = "0px solid transparent";
+    sk2.style.borderTop = "6px solid transparent";
+    sk2.style.borderLeft = "6px solid " + songs[0];
+    sk2.style.borderBottom = "6px solid transparent";
 
     // check autoplay preference
 
