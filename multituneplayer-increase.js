@@ -1,4 +1,6 @@
-window.onload = function littleplayer() {
+littleplayer();
+
+function littleplayer() {
         
     // get user input info
 
