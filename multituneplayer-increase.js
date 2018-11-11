@@ -1,4 +1,4 @@
-function littleplayer() {
+$(document).ready(function littleplayer() {
 
     // get user input info
 
