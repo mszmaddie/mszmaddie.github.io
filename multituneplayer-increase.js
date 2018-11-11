@@ -1,8 +1,8 @@
 // code forked at https://cinness.github.io/index.html
 
-littleplayer();
+multituneplayer();
 
-function littleplayer() {
+function multituneplayer() {
         
     // get user input info
 
