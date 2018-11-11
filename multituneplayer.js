@@ -67,9 +67,9 @@ window.onload = function littleplayer() {
     xplay.style.display = "block";
     xplay.style.width = "0px";
     xplay.style.height = "0px";
-    xplay.style.borderTop = "6px solid transparent";
-    xplay.style.borderLeft = "8px solid " + songs[0];
-    xplay.style.borderBottom = "6px solid transparent";
+    xplay.style.borderTop = "4px solid transparent";
+    xplay.style.borderLeft = "6px solid " + songs[0];
+    xplay.style.borderBottom = "4px solid transparent";
     xplay.style.cursor = "pointer";
 
     var xpause = document.getElementById("xpause");
@@ -105,17 +105,17 @@ window.onload = function littleplayer() {
     sk1.style.float = "left";
     sk1.style.width = "0px";
     sk1.style.height = "0px";
-    sk1.style.borderTop = "6px solid transparent";
-    sk1.style.borderLeft = "6px solid " + songs[0];
-    sk1.style.borderBottom = "6px solid transparent";
+    sk1.style.borderTop = "4px solid transparent";
+    sk1.style.borderLeft = "4px solid " + songs[0];
+    sk1.style.borderBottom = "4px solid transparent";
 
     sk2.style.display = "block";
     sk2.style.float = "left";
     sk2.style.width = "6px";
     sk2.style.height = "0px";
-    sk2.style.borderTop = "6px solid transparent";
-    sk2.style.borderLeft = "6px solid " + songs[0];
-    sk2.style.borderBottom = "6px solid transparent";
+    sk2.style.borderTop = "4px solid transparent";
+    sk2.style.borderLeft = "4px solid " + songs[0];
+    sk2.style.borderBottom = "4px solid transparent";
 
     // check autoplay preference
 
