@@ -165,14 +165,6 @@ a {
   -webkit-appearance: none; 
 }
 
-#codebox::selection { 
-  background: #FFE8EC; 
-}
-
-#codebox::-moz-selection { 
-  background: #FFE8EC; 
-}
-
 .kr { 
   clear: both; 
 }
