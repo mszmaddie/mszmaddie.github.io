@@ -44,13 +44,13 @@ a {
   display: block; 
   
    	float: left;
-margin: 0;
+margin: 30;
 }
 
 #autoplay { 
   display: block; 
 	float: right;
-margin: 0 230px 0 0;
+margin: 0 20px 0 0;
 }
 
 #mini { 
@@ -59,7 +59,7 @@ margin: 0 230px 0 0;
   border-radius: 3px; 
   letter-spacing: 1px; 
 float: right;
-margin: -20px 161px 0 0;
+margin: -20px 141px 0 0;
 }
 
 #mini a { 
