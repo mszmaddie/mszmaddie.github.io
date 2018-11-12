@@ -17,9 +17,9 @@ a {
   position: absolute; 
   width: 400px; 
   left: calc(50% - 200px); 
-  margin: 100px 0 0 0; 
+  margin: 85px 0 0 0; 
   padding: 20px; 
-  border: 1px solid #000000;
+  border: 1px solid #b0b0b0;
   border-radius: 9px; 
   background: #FFF8FD;
 }
