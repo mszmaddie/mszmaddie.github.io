@@ -44,7 +44,7 @@ a {
   display: block; 
   
    	float: left;
-margin: 30;
+margin: 0 130px 0 0;
 }
 
 #autoplay { 
