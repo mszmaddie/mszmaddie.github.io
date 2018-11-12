@@ -87,7 +87,7 @@ function mtp() {
     pbar1.style.float = "left";
     pbar1.style.marginRight = "2px";
     pbar1.style.width = "3px";
-    pbar1.style.height = "9px";
+    pbar1.style.height = "8.5px";
     pbar1.style.marginTop = "0.5px";
     pbar1.style.background = songs[0];
 
