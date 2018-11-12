@@ -50,10 +50,10 @@ a {
 }
 
 #medium { 
-  display: inline; 
+  display: inline-block; 
   float: right; 
   margin: 0 0px 0 0; 
-  
+   padding: 3px 6px;  
   
   border-radius: 3px; 
   background: #000000; 
@@ -62,6 +62,7 @@ a {
 }
 
 #medium a { 
+    border-radius: 3px; 
   padding: 3px 6px; 
   background: #000000; 
   color: #fff; 
