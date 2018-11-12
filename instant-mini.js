@@ -1,12 +1,16 @@
-window.onload = function littleplayer() {
+    // code forked at https://cinness.github.io/index.html
+
+mtp();
+
+function mtp() {
 
     // get user input info
 
-    var initinfo = document.getElementById("xlittleplayerinfo").innerHTML;
+    var initinfo = document.getElementById("multi-info").innerHTML;
     var songs = initinfo.split(" ");
     var sq = songs.length - 1;
 
-    var initnames = document.getElementById("xlittleplayernames").innerHTML;
+    var initnames = document.getElementById("multi-names").innerHTML;
     var tracks = initnames.split(",");
 
    // fill holes left by possible blank track titles
@@ -24,13 +28,13 @@ window.onload = function littleplayer() {
 
     // set up DOM
 
-        document.getElementById("xlittleplayer").innerHTML = '<audio id="xaudio" preload="auto"><source src="' + songs[2] +'" type="audio/mpeg"></audio><div id="controls1"><div id="xplay"></div><div id="xpause"><div id="pbar1"></div><div id="pbar2"></div><div id="kr2"></div></div></div><div id="controls2"><div id="xskip"><div id="sk1"></div><div id="sk2"></div><div id="kr3"></div></div></div><div id="xtrackname"></div><div id="kr"></div>';
+        document.getElementById("mtplayer").innerHTML = '<audio id="xaudio" preload="auto"><source src="' + songs[2] +'" type="audio/mpeg"></audio><div id="controls1"><div id="xplay"></div><div id="xpause"><div id="pbar1"></div><div id="pbar2"></div><div id="kr2"></div></div></div><div id="controls2"><div id="xskip"><div id="sk1"></div><div id="sk2"></div><div id="kr3"></div></div></div><div id="xtrackname"></div><div id="kr"></div>';
 
     // style player elements
 
-    document.getElementById("xlittleplayer").style.display = "block";
-    document.getElementById("xlittleplayer").style.width = "20px";
-    document.getElementById("xlittleplayer").style.padding = "3px 5px";
+    document.getElementById("mtplayer").style.display = "block";
+    document.getElementById("mtplayer").style.width = "20px";
+    document.getElementById("mtplayer").style.padding = "3px 5px";
 
     var xaudio = document.getElementById("xaudio");
     xaudio.style.display = "none";
@@ -82,16 +86,16 @@ window.onload = function littleplayer() {
     pbar1.style.display = "block";
     pbar1.style.float = "left";
     pbar1.style.marginRight = "2px";
-    pbar1.style.width = “4px";
-    pbar1.style.height = “8px";
-    pbar1.style.marginTop = "1px";
+    pbar1.style.width = "2px";
+    pbar1.style.height = "7px";
+    pbar1.style.marginTop = "0px";
     pbar1.style.background = songs[0];
 
     pbar2.style.display = "block";
     pbar2.style.float = "left";
-    pbar2.style.width = “4px";
-    pbar2.style.height = “8px";
-    pbar2.style.marginTop = "1px";
+    pbar2.style.width = "2px";
+    pbar2.style.height = "7px";
+    pbar2.style.marginTop = "0px";
     pbar2.style.background = songs[0];
 
     var xskip = document.getElementById("xskip");
@@ -182,6 +186,6 @@ window.onload = function littleplayer() {
         skipend();
     };
 
-    // end
+  // end
 
 };
