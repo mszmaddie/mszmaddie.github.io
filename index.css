@@ -45,14 +45,14 @@ a {
 
 #autoplay { 
   display: block; 
-  float: left; 
-  margin: 0 100px;
+  float: right; 
+  margin: 0 230px 0 0; 
 }
 
 #medium { 
   display: block; 
   float: right; 
-  margin: 0 0px 0 0; 
+  margin: -30px 0px 0 0; 
   
   border-radius: 3px; 
   background: #000000; 
