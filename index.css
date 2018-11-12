@@ -56,13 +56,13 @@ a {
   
   
   border-radius: 3px; 
-  padding: 3px 6px; 
   background: #000000; 
   color: #fff; 
   letter-spacing: 1px; 
 }
 
 #medium a { 
+  padding: 3px 6px; 
   background: #000000; 
   color: #fff; 
   letter-spacing: 1px; 
