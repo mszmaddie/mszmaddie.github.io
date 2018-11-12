@@ -52,7 +52,7 @@ a {
 #medium { 
   display: block; 
   float: right; 
-  margin: 0 -90px 0 0; 
+  margin: 0 0px 0 0; 
 }
 
 #color-select input, #autoplay input, #medium { 
