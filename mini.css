@@ -1,6 +1,6 @@
 body { 
   margin: 0; 
-  background: #000000; 
+  background: #f0f0f0; 
   font-family: arial, sans-serif; 
   font-size: 12px; 
   line-height: 19px; 
@@ -20,7 +20,7 @@ a {
   margin: 100px 0 0 0; 
   padding: 20px; 
   border: 1px solid #000000;
-  border-radius: 3px; 
+  border-radius: 9px; 
   background: #FFF8FD;
 }
 
