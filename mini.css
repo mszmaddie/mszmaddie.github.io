@@ -18,8 +18,10 @@ a {
   width: 400px; 
   left: calc(50% - 200px); 
   margin: 100px 0 0 0; 
-  padding-bottom: 40px; 
+  padding: 20px; 
   border: 1px solid #000000;
+  border-radius: 3px; 
+  background: #000000;
 }
 
 #cell input { 
