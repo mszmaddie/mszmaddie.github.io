@@ -19,6 +19,7 @@ a {
   left: calc(50% - 200px); 
   margin: 100px 0 0 0; 
   padding-bottom: 40px; 
+  border: 1px solid #000000;
 }
 
 #cell input { 
