@@ -94,7 +94,7 @@ function mtp() {
     pbar2.style.display = "block";
     pbar2.style.float = "left";
     pbar2.style.width = "3px";
-    pbar2.style.height = "9px";
+    pbar2.style.height = "8.5px";
     pbar2.style.marginTop = "0.5px";
     pbar2.style.background = songs[0];
 
