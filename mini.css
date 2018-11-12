@@ -42,8 +42,8 @@ a {
 
 #color-select { 
   display: block; 
-  float: left; 
-  margin: 0;
+   float: right; 
+  margin: -20px 184px 0 0; 
 }
 
 #autoplay { 
@@ -54,10 +54,12 @@ a {
 
 #medium { 
   display: block; 
-  float: right; 
-  margin: -20px 184px 0 0; 
+  
   border-radius: 3px; 
   letter-spacing: 1px; 
+  
+   float: left; 
+  margin: 0;
 }
 
 #medium a { 
