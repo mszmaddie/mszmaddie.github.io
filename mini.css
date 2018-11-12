@@ -43,13 +43,13 @@ a {
 #color-select { 
   display: block; 
    float: right; 
-  margin: -20px 184px 0 0; 
+  margin: 0 184px 0 0; 
 }
 
 #autoplay { 
   display: block; 
   float: right; 
-  margin: 0 230px 0 0; 
+  margin: 0 200px 0 0; 
 }
 
 #medium { 
@@ -59,7 +59,7 @@ a {
   letter-spacing: 1px; 
   
    float: left; 
-  margin: 0;
+  margin: 2px 0 0 0;
 }
 
 #medium a { 
