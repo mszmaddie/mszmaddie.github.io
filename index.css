@@ -45,8 +45,8 @@ a {
 
 #autoplay { 
   display: block; 
-  float: right; 
-  margin: 0 230px 0 0; 
+  float: left; 
+  margin: 0 230px;
 }
 
 #medium { 
