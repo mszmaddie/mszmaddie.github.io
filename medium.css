@@ -52,7 +52,7 @@ a {
 #mini { 
   display: block; 
   float: right; 
-  margin: -21px -1px 0 0; 
+  margin: -21px 1px 0 0; 
   border-radius: 3px; 
   letter-spacing: 1px; 
 }
