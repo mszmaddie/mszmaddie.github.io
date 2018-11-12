@@ -7,9 +7,9 @@ function changecolor() {
     document.getElementById("xtrackname").style.color = "#" + color;
     document.getElementById("pbar1").style.background = "#" + color;
     document.getElementById("pbar2").style.background = "#" + color;
-    document.getElementById("xplay").style.borderLeft = "6px solid " + "#" + color;
-    document.getElementById("sk1").style.borderLeft = "4px solid " + "#" + color;
-    document.getElementById("sk2").style.borderLeft = "4px solid " + "#" + color;
+    document.getElementById("xplay").style.borderLeft = "7px solid " + "#" + color;
+    document.getElementById("sk1").style.borderLeft = "5px solid " + "#" + color;
+    document.getElementById("sk2").style.borderLeft = "5px solid " + "#" + color;
 }
 
 // turn autoplay on or off function
