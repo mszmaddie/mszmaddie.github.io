@@ -43,7 +43,7 @@ a {
 #color-select { 
   display: block; 
    float: right; 
-  margin: 20px 161px 0 0; 
+  margin: 0 0px 0 0; 
 }
 
 #autoplay { 
