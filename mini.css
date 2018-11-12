@@ -1,6 +1,6 @@
 body { 
   margin: 0; 
-  background: #FFF8FD; 
+  background: #000000; 
   font-family: arial, sans-serif; 
   font-size: 12px; 
   line-height: 19px; 
@@ -21,7 +21,7 @@ a {
   padding: 20px; 
   border: 1px solid #000000;
   border-radius: 3px; 
-  background: #000000;
+  background: #FFF8FD;
 }
 
 #cell input { 
