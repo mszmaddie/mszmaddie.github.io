@@ -55,7 +55,7 @@ a {
   margin: 0 0px 0 0; 
 }
 
-#color-select input, #autoplay input, #medium { 
+#color-select input, #autoplay input, #medium input { 
   border: 0px; 
   outline: none; 
   cursor: pointer; 
