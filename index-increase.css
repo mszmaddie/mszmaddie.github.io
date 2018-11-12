@@ -62,9 +62,6 @@ a {
 #mini a { 
   border-radius: 3px; 
   padding: 5px 6px; 
-  background: #000000; 
-  color: #fff; 
-  letter-spacing: 1px; 
   text-decoration: none;
 }
 
