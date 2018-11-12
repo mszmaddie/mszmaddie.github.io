@@ -19,9 +19,9 @@ a {
   left: calc(50% - 200px); 
   margin: 85px 0 0 0; 
   padding: 20px; 
-  border: 1px solid #ffffff;
+  border: 1px solid #b6b6b6;
   border-radius: 9px; 
-  background: #FFF8FD;
+  background: #ffffff;
 }
 
 #cell input { 
