@@ -75,7 +75,7 @@ function generate() {
 
         // generate user code in textarea
 
-        document.getElementById("codebox").innerHTML = "<!-- code forked at https://cinness.github.io/index-increase.html --> &lt;script src&equals;&quot;https://cinness.github.io/multituneplayer-increase.js&quot;&gt;&lt;&sol;script&gt;&lt;div id&equals;&quot;mtplayer&quot;&gt;&lt;span id&equals;&quot;multi-info&quot; style&equals;&quot;display:none;&quot;&gt;" + oneinfonew + "&lt;&sol;span&gt;&lt;span id&equals;&quot;multi-names&quot; style&equals;&quot;display:none;&quot;&gt;" + twoinfonew + "&lt;&sol;span&gt;&lt;&sol;div&gt;";
+        document.getElementById("codebox").innerHTML = "<!-- code forked at https://cinness.github.io/index.html --> &lt;script src&equals;&quot;https://cinness.github.io/multituneplayer-increase.js&quot;&gt;&lt;&sol;script&gt;&lt;div id&equals;&quot;mtplayer&quot;&gt;&lt;span id&equals;&quot;multi-info&quot; style&equals;&quot;display:none;&quot;&gt;" + oneinfonew + "&lt;&sol;span&gt;&lt;span id&equals;&quot;multi-names&quot; style&equals;&quot;display:none;&quot;&gt;" + twoinfonew + "&lt;&sol;span&gt;&lt;&sol;div&gt;";
 
     })();
 }
