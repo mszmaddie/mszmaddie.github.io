@@ -49,7 +49,7 @@ a {
   margin: 0 230px 0 0; 
 }
 
-#medium { 
+#mini { 
   display: block; 
   float: right; 
   margin: -20px 0px 0 0; 
@@ -59,7 +59,7 @@ a {
   letter-spacing: 1px; 
 }
 
-#medium a { 
+#mini a { 
   border-radius: 3px; 
   padding: 5px 6px; 
   background: #000000; 
