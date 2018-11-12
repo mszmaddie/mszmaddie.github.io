@@ -1,4 +1,4 @@
-     // code forked at https://cinness.github.io/index.html
+     // code forked at https://cinness.github.io/medium.html
 
 window.onload = function mtp() {
         
