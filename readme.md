@@ -9,6 +9,3 @@
 - Choose mini or medium dimensions
 
 [Click here for preview, customization & code](https://cinness.github.io/mini.html)
-
-<a href="https://cinness.github.io/mini.html">`Click for preview, customization & code`</a>
-
