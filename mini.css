@@ -40,18 +40,6 @@ a {
   text-align: justify; 
 }
 
-#color-select { 
-  display: block; 
-  float: right;
-  margin: 0 172px 0 0;
-}
-
-#autoplay { 
-  display: block; 
-  float: right;
-  margin: 0 14px 0 0;
-}
-
 #medium { 
   display: block; 
   border-radius: 3px; 
@@ -68,6 +56,32 @@ a {
   text-decoration: none;
 }
 
+#autoplay { 
+  display: block; 
+  float: right;
+  margin: 0 14px 0 0;
+}
+
+#autoplay input { 
+  padding: 5px 6px; 
+  background: #FF0054; 
+  color: #ffffff; 
+  letter-spacing: 1px; 
+}
+
+#color-select { 
+  display: block; 
+  float: right;
+  margin: 0 172px 0 0;
+}
+
+#color-select input { 
+  width: 60px; 
+  text-align: center; 
+  padding: 4px 0px 4px 2px; 
+  letter-spacing: 1px; 
+}
+
 #color-select input, #autoplay input { 
   border: 0px; 
   outline: none; 
@@ -78,20 +92,6 @@ a {
   -webkit-border-radius: 3px; 
   -moz-border-radius: 3px; 
   border-radius: 3px; 
-}
-
-#color-select input { 
-  width: 60px; 
-  text-align: center; 
-  padding: 4px 0px 4px 2px; 
-  letter-spacing: 1px; 
-}
-
-#autoplay input { 
-  padding: 5px 6px; 
-  background: #FF0054; 
-  color: #ffffff; 
-  letter-spacing: 1px; 
 }
 
 #trackbox { 
