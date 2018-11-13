@@ -39,7 +39,7 @@ function generate() {
     document.getElementById("codebox").style.display = "block";
     document.getElementById("codebox1").style.display = "block";
     document.getElementById("desc").style.textAlign = "center";
-    document.getElementById("desc").innerHTML = "Paste the first code where you want the player to be, and the second code right before /body (located near the end of your blog or website’s HTML):"
+    document.getElementById("desc").innerHTML = "Paste the first code where you want the player to be, and the second code right before /body (located near the end of your blog or website’s HTML)"
 
     // declare variables for multi-info and multi-names spans
 
