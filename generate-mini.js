@@ -37,7 +37,7 @@ function generate() {
     document.getElementById("index-color-select").style.display = "none";
     document.getElementById("code1").style.display = "block";
     document.getElementById("code2").style.display = "block";
-    document.getElementById("desc").style.textAlign = "center";
+    document.getElementById("desc").style.textAlign = "left";
     document.getElementById("desc").innerHTML = "<b>First code:</b> Paste it where you want the player to be.<br><b>Second code:</b> Paste it just before /body (located near the end of your blog or website’s HTML)."
     
     // declare variables for multi-info and multi-names spans
