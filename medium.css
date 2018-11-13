@@ -122,10 +122,6 @@ a {
   border-radius: 3px; 
 }
 
-#trackname1 input { 
-  color: #999999; 
-}
-
 #trackname1, #trackname2, #trackname3, #trackname4, #trackname5, #trackname6, #trackname7, #trackname8, #trackname9 { 
   display: block; 
   width: 90px; 
