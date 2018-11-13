@@ -1,6 +1,6 @@
 body { 
   margin: 0; 
-  background: #ffffff; 
+  background: #d7d7d7;
   font-family: arial, sans-serif; 
   font-size: 12px; 
   line-height: 19px; 
@@ -19,7 +19,7 @@ a {
   left: calc(50% - 220px); 
   margin: 80px 0 0 0; 
   padding: 20px; 
-  border: 1px solid #d7d7d7;
+  border: 1px solid #ffffff; 
   border-radius: 9px; 
   background: #fffafd; 
 }
@@ -108,7 +108,7 @@ a {
   width: 270px; 
   float: left; 
   border: 1px solid #E0E0E0; 
-  background: #ffffff; 
+  background: #d7d7d7; 
   outline: none; 
   font-family: arial, sans-serif; 
   font-size: 12px; 
