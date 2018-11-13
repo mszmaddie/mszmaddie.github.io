@@ -99,10 +99,6 @@ a {
   width: 400px; 
 }
 
-#trackbox input { 
-  color: #999999;
-}
-
 #trackguide { 
   margin: 0 0 7px 0; 
 }
@@ -124,6 +120,10 @@ a {
   -webkit-border-radius: 3px; 
   -moz-border-radius: 3px; 
   border-radius: 3px; 
+}
+
+#trackname1 input { 
+  color: #999999; 
 }
 
 #trackname1, #trackname2, #trackname3, #trackname4, #trackname5, #trackname6, #trackname7, #trackname8, #trackname9 { 
