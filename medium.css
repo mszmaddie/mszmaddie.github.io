@@ -159,7 +159,7 @@ a {
   letter-spacing: 1px; 
 }
 
-#codebox { 
+#code1 { 
   display: block; 
   width: 380px; 
   height: 130px; 
@@ -183,7 +183,7 @@ a {
   -webkit-appearance: none; 
 }
 
-#codebox1 { 
+#code2 { 
   display: block; 
   width: 380px; 
   height: 130px; 
