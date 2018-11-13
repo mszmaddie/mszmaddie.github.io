@@ -35,10 +35,11 @@ function generate() {
     // hide customisation interface and show codebox
 
     document.getElementById("index-color-select").style.display = "none";
-    document.getElementById("codebox").style.display = "block";
+    document.getElementById("code1").style.display = "block";
+    document.getElementById("code2").style.display = "block";
     document.getElementById("desc").style.textAlign = "center";
-    document.getElementById("desc").innerHTML = "Copy & paste the code below into your blog or website's HTML:"
-
+    document.getElementById("desc").innerHTML = "<b>First code:</b> Paste it where you want the player to be.<br><b>Second code:</b> Paste it just before /body (located near the end of your blog or website’s HTML)."
+    
     // declare variables for multi-info and multi-names spans
 
     var oneinfo = "#" + color + " " + autos + " ";
@@ -74,7 +75,7 @@ function generate() {
 
         // generate user code in text area
 
-        document.getElementById("codebox").innerHTML = "<!-- code forked at https://cinness.github.io/mini.html --> &lt;script src&equals;&quot;https://cinness.github.io/instant-mini.js&quot;&gt;&lt;&sol;script&gt;&lt;div id&equals;&quot;mtplayer&quot;&gt;&lt;span id&equals;&quot;multi-info&quot; style&equals;&quot;display:none;&quot;&gt;" + oneinfonew + "&lt;&sol;span&gt;&lt;span id&equals;&quot;multi-names&quot; style&equals;&quot;display:none;&quot;&gt;" + twoinfonew + "&lt;&sol;span&gt;&lt;&sol;div&gt;";
-
+        document.getElementById("code1").innerHTML = "<!-- code forked at https://cinness.github.io/mini.html --> &lt;div id&equals;&quot;mtplayer&quot;&gt;&lt;span id&equals;&quot;multi-info&quot; style&equals;&quot;display:none;&quot;&gt;" + oneinfonew + "&lt;&sol;span&gt;&lt;span id&equals;&quot;multi-names&quot; style&equals;&quot;display:none;&quot;&gt;" + twoinfonew + "&lt;&sol;span&gt;&lt;&sol;div&gt;";
+        document.getElementById("code2").innerHTML = "<!-- code forked at https://cinness.github.io/mini.html --> &lt;script src&equals;&quot;https://cinness.github.io/instant-mini.js&quot;&gt;&lt;&sol;script&gt;";
     })();
 }
