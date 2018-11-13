@@ -1,11 +1,11 @@
 body { 
   margin: 0; 
-  background: #fffafd; 
+  background: #ffffff;
   font-family: arial, sans-serif; 
   font-size: 12px; 
   line-height: 19px; 
   letter-spacing: 1px; 
-  color:#999; 
+  color: #999999; 
 }
 
 a { 
@@ -21,7 +21,7 @@ a {
   padding: 20px; 
   border: 1px solid #d7d7d7;
   border-radius: 9px; 
-  background: #ffffff; 
+  background: #fffafd;
 }
 
 #cell input { 
@@ -90,7 +90,7 @@ a {
 #autoplay input { 
   padding: 5px 6px; 
   background: #FF0054; 
-  color: #fff; 
+  color: #ffffff; 
   letter-spacing: 1px; 
 }
 
@@ -108,14 +108,14 @@ a {
   width: 270px; 
   float: left; 
   border: 1px solid #E0E0E0; 
-  background: #fffafd; 
+  background: #ffffff;
   outline: none; 
   font-family: arial, sans-serif; 
   font-size: 12px; 
   line-height: 12px; 
   letter-spacing: 1px; 
   margin: 7px 0 0 0; 
-  color: #999; 
+  color: #999999; 
   padding: 4px 6px; 
   -webkit-border-radius: 3px; 
   -moz-border-radius: 3px; 
@@ -127,14 +127,14 @@ a {
   width: 90px; 
   float: right; 
   border: 1px solid #E0E0E0; 
-  background: #fffafd; 
+  background: #ffffff;
   outline: none; 
   font-family: arial, sans-serif; 
   font-size: 12px; 
   line-height: 12px; 
   letter-spacing: 1px; 
   margin: 7px 0 0 0; 
-  color: #999; 
+  color: #999999; 
   padding: 4px 6px; 
   -webkit-border-radius: 3px; 
   -moz-border-radius: 3px; 
@@ -153,9 +153,9 @@ a {
   -webkit-border-radius: 3px; 
   -moz-border-radius: 3px; 
   border-radius: 3px; 
-  color: #999; 
+  color: #999999; 
   padding: 8px 6px; 
-  background: #fffafd; 
+  background: #ffffff;
   letter-spacing: 1px; 
 }
 
@@ -165,14 +165,14 @@ a {
   height: 130px; 
   float: right; 
   border: 1px solid #E0E0E0; 
-  background: #fffafd; 
+  background: #ffffff;
   outline: none; 
   font-family: arial, sans-serif; 
   font-size: 12px; 
   line-height: 12px; 
   letter-spacing: 1px; 
   margin: 7px 0 0 0; 
-  color: #999; 
+  color: #999999; 
   padding: 10px; 
   -webkit-border-radius: 3px; 
   -moz-border-radius: 3px; 
