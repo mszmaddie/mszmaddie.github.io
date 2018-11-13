@@ -8,5 +8,7 @@
 - Optional titles
 - Choose mini or medium dimensions
 
-`MultiTune Player →`<a href="https://cinness.github.io/mini.html">`Click for preview, customization & code`</a>
+[Click for preview, customization & code](https://cinness.github.io/mini.html)
+
+<a href="https://cinness.github.io/mini.html">`Click for preview, customization & code`</a>
 
