@@ -63,7 +63,6 @@ a {
 }
 
 #autoplay input { 
-  color: #000000; 
   padding: 5px 6px; 
   background: #FF0054; 
   color: #ffffff; 
@@ -98,6 +97,10 @@ a {
 #trackbox { 
   margin: 16px 0 0 0; 
   width: 400px; 
+}
+
+#trackbox input { 
+  color: #999999;
 }
 
 #trackguide { 
