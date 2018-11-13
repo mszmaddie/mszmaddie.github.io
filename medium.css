@@ -184,7 +184,7 @@ a {
 }
 
 #codebox9 { 
-  
+  display:block;
   width: 380px; 
   height: 130px; 
   float: right; 
