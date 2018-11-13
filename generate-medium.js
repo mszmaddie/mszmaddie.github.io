@@ -1,5 +1,5 @@
 
-// live preview color function
+    // live preview color function
 
 var color;
 function changecolor() {
@@ -12,7 +12,7 @@ function changecolor() {
     document.getElementById("sk2").style.borderLeft = "5px solid " + "#" + color;
 }
 
-// turn autoplay on or off function
+    // turn autoplay on or off function
 
 var autos = "off";
 function auto() {
@@ -29,7 +29,7 @@ function auto() {
     else {}
 }
 
-// generate user code function
+    // generate user code function
 
 function generate() {
 
@@ -37,7 +37,7 @@ function generate() {
 
     document.getElementById("index-color-select").style.display = "none";
     document.getElementById("codebox").style.display = "block";
-        document.getElementById("codebox1").style.display = "block";
+    document.getElementById("codebox1").style.display = "block";
     document.getElementById("desc").style.textAlign = "center";
     document.getElementById("desc").innerHTML = "Copy & paste the code below into your blog or website's HTML:"
 
